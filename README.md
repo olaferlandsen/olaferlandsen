@@ -25,7 +25,7 @@ Experienced Computer Engineer with 10+ years building and scaling backend and fu
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,c,cs,cpp,bash,php,react,vue,angular,bootstrap,jquery,nextjs,pinia,flutter,electron,nodejs,deno,express,fastapi,flask,django,spring,hibernate,jest,npm,sequelize,postgres,mysql,sqlite,mongodb,cassandra,dynamodb,docker,kubernetes,nginx,aws,gcp,azure,git,github,gitlab,bitbucket,linux,grafana,opencv,bots&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,c,cs,cpp,bash,php,react,vue,angular,bootstrap,jquery,nextjs,pinia,flutter,electron,nodejs,deno,express,fastapi,flask,django,spring,hibernate,jest,npm,sequelize,postgres,mysql,sqlite,mongodb,cassandra,dynamodb,docker,kubernetes,nginx,aws,gcp,azure,git,github,gitlab,bitbucket,linux,grafana,opencv,bots&theme=light&perline=10" />
 </div>
 
 ---
