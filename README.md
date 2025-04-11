@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Jorge Olaf Erlandsen</h1>
 
 <p align="center">
-  <b>Software Engineer | Backend & Full Stack Developer | Technical Lead</b><br>
+  <b>Computer Engineer | Backend & Full Stack Developer | Technical Lead</b><br>
   <i>Passionate about building high-quality software, leading teams, and designing scalable solutions</i>
 </p>
 
@@ -52,11 +52,11 @@ Experienced Computer Engineer with 10+ years building and scaling backend and fu
 
 ## 🧠 About Me
 
-🎓 Computer Engineering  
-👨‍💻 10+ years in software development  
-🌍 International experience in leading and delivering large-scale systems  
-📊 Focused on clean code, scalable design, and real-world business impact  
-☕ Always learning, always sharing
+- 🎓 Computer Engineering  
+- 👨‍💻 10+ years in software development  
+- 🌍 International experience in leading and delivering large-scale systems  
+- 📊 Focused on clean code, scalable design, and real-world business impact  
+- ☕ Always learning, always sharing
 
 ---
 
