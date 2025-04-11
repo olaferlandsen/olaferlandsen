@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Jorge Olaf Erlandsen</h1>
 
 <p align="center">
-  <b>Ingeniero de Software | Desarrollador Backend & Full Stack | Líder Técnico</b><br>
+  <b>Ingeniero de Informático | Desarrollador Backend & Full Stack | Líder Técnico</b><br>
   <i>Apasionado por construir software de alta calidad, liderar equipos y diseñar soluciones escalables</i>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 💬 TL;DR
 
-Ingeniero de Software con más de 10 años de experiencia creando y escalando sistemas backend y full stack en mercados de LATAM e internacionales. Especializado en microservicios, arquitectura limpia e infraestructura en la nube. Sólida trayectoria como Líder Técnico, entregando soluciones de alto impacto para empresas como MercadoLibre y Falabella. Apasionado por el código limpio, la optimización de sistemas y el desarrollo de equipos.
+Ingeniero Informático con más de 10 años de experiencia creando y escalando sistemas backend y full stack en mercados de LATAM e internacionales. Especializado en microservicios, arquitectura limpia e infraestructura en la nube. Sólida trayectoria como Líder Técnico, entregando soluciones de alto impacto para empresas como MercadoLibre y Falabella. Apasionado por el código limpio, la optimización de sistemas y el desarrollo de equipos.
 
 ---
 
