@@ -13,16 +13,14 @@
   <a href="https://stackoverflow.com/users/901197/olaf-erlandsen">🧠 StackOverflow</a>
 </p>
 
-<!--
-
 <p align="center">
- <sup><a href="">🇪🇸 Versión en español disponible aquí 🇲🇽</a></sup>
+ <sup><a href="README-es.md">🇪🇸 Versión en español disponible aquí 🇲🇽</a></sup>
 </p>
--->
+
 ---
 
 ## 💬 TL;DR
-Experienced Software Engineer with 10+ years building and scaling backend and full stack systems across LATAM and international markets. Specialized in microservices, clean architecture, and cloud infrastructure. Strong leadership background as a Technical Lead, delivering impactful solutions for top-tier companies such as MercadoLibre and Falabella. Passionate about clean code, system optimization, and team empowerment.
+Experienced Computer Engineer with 10+ years building and scaling backend and full stack systems across LATAM and international markets. Specialized in microservices, clean architecture, and cloud infrastructure. Strong leadership background as a Technical Lead, delivering impactful solutions for top-tier companies such as MercadoLibre and Falabella. Passionate about clean code, system optimization, and team empowerment.
 
 ## 🚀 Tech Stack
 
