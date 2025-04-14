@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Jorge Olaf Erlandsen</h1>
 
 <p align="center">
-  <b>Computer Engineer | Backend & Full Stack Developer | Technical Lead</b><br>
+  <b>Software Engineer | Backend & Full Stack Developer | Technical Lead</b><br>
   <i>Passionate about building high-quality software, leading teams, and designing scalable solutions</i>
 </p>
 
@@ -20,7 +20,7 @@
 ---
 
 ## 💬 TL;DR
-Experienced Computer Engineer with 10+ years building and scaling backend and full stack systems across LATAM and international markets. Specialized in microservices, clean architecture, and cloud infrastructure. Strong leadership background as a Technical Lead, delivering impactful solutions for top-tier companies such as MercadoLibre and Falabella. Passionate about clean code, system optimization, and team empowerment.
+Experienced Software Engineer with 10+ years building and scaling backend and full stack systems across LATAM and international markets. Specialized in microservices, clean architecture, and cloud infrastructure. Strong leadership background as a Technical Lead, delivering impactful solutions for top-tier companies such as MercadoLibre and Falabella. Passionate about clean code, system optimization, and team empowerment.
 
 ## 🚀 Tech Stack
 
@@ -52,7 +52,7 @@ Experienced Computer Engineer with 10+ years building and scaling backend and fu
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering  
+- 🎓 Software Engineering  
 - 👨‍💻 10+ years in software development  
 - 🌍 International experience in leading and delivering large-scale systems  
 - 📊 Focused on clean code, scalable design, and real-world business impact  
